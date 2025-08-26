@@ -1,7 +1,26 @@
+import AC1 from '../../assets/Ac/1.jpg'
+import AC2 from '../../assets/Ac/2.jpg'
+import AC3 from '../../assets/Ac/3.jpg'
+import AC4 from '../../assets/Ac/4.jpg'
+import AC5 from '../../assets/Ac/5.jpg'
+import AC6 from '../../assets/Ac/6.jpg'
+import AC7 from '../../assets/Ac/7.jpg'
+import AC8 from '../../assets/Ac/8.jpg'
+import AC9 from '../../assets/Ac/9.jpg'
+import AC10 from '../../assets/Ac/10.jpg'
+import AC11 from '../../assets/Ac/11.jpg'
+import AC12 from '../../assets/Ac/12.jpg'
+
+
+
+
+
+
+
 export const acData = [{
         "id": "1",
         "product": "Air Conditioner",
-        "image": "/assets/Ac/1.jpg",
+        "image": AC1,
         "company": "LG",
         "model": "CoolTech 5000",
         "price": "799.99",
@@ -11,7 +30,7 @@ export const acData = [{
     {
         "id": "2",
         "product": "AC Unit",
-        "image": "/assets/Ac/2.jpg",
+        "image": AC2,
         "company": "Daikin",
         "model": "ClimateMaster Pro",
         "price": "1299.00",
@@ -21,7 +40,7 @@ export const acData = [{
     {
         "id": "3",
         "product": "Cooling System",
-        "image": "/assets/Ac/3.jpg",
+        "image": AC3,
         "company": "Carrier",
         "model": "Arctic Breeze 300",
         "price": "899.99",
@@ -31,7 +50,7 @@ export const acData = [{
     {
         "id": "4",
         "product": "Air Cooler",
-        "image": "/assets/Ac/4.jpg",
+        "image": AC4,
         "company": "Honeywell",
         "model": "FrostFlow XL",
         "price": "299.50",
@@ -41,7 +60,7 @@ export const acData = [{
     {
         "id": "5",
         "product": "Window AC",
-        "image": "/assets/Ac/5.jpg",
+        "image": AC5,
         "company": "Whirlpool",
         "model": "ChillGuard 800",
         "price": "549.00",
@@ -51,7 +70,7 @@ export const acData = [{
     {
         "id": "6",
         "product": "Smart AC",
-        "image": "/assets/Ac/6.jpg",
+        "image": AC6,
         "company": "Nest",
         "model": "EcoCool Smart+",
         "price": "899.99",
@@ -61,7 +80,7 @@ export const acData = [{
     {
         "id": "7",
         "product": "Inverter AC",
-        "image": "/assets/Ac/7.jpg",
+        "image": AC7,
         "company": "Mitsubishi",
         "model": "SilentComfort 1200i",
         "price": "1499.00",
@@ -71,7 +90,7 @@ export const acData = [{
     {
         "id": "8",
         "product": "Portable AC",
-        "image": "/assets/Ac/8.jpg",
+        "image": AC8,
         "company": "Frigidaire",
         "model": "EZCool Portable 400",
         "price": "399.99",
@@ -81,7 +100,7 @@ export const acData = [{
     {
         "id": "9",
         "product": "Ducted AC",
-        "image": "/assets/Ac/9.jpg",
+        "image": AC9,
         "company": "Lennox",
         "model": "PureAir Ducted 6000",
         "price": "2499.00",
@@ -91,7 +110,7 @@ export const acData = [{
     {
         "id": "10",
         "product": "Wall-Mount AC",
-        "image": "/assets/Ac/10.jpg",
+        "image": AC10,
         "company": "Panasonic",
         "model": "WallMaster Pro 1800",
         "price": "749.00",
@@ -101,7 +120,7 @@ export const acData = [{
     {
         "id": "11",
         "product": "Split AC",
-        "image": "/assets/Ac/11.jpg",
+        "image": AC11,
         "company": "Haier",
         "model": "CoolWave Split 220",
         "price": "649.50",
@@ -111,7 +130,7 @@ export const acData = [{
     {
         "id": "12",
         "product": "Central AC",
-        "image": "/assets/Ac/12.jpg",
+        "image": AC12,
         "company": "Trane",
         "model": "ClimateCentral 5000",
         "price": "2999.00",
